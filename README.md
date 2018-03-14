@@ -1,8 +1,6 @@
 # Luva Robótica
-Status: Concluído
+Status: Completed
 
+Extension project made from May to December 2016 - UTFPR Cornélio Procópio, with the objective of using the accelerometer and gyroscope as game control and even virtual reality, because its cost is affordable and the sensor is practical and with little presence of noise .
 
-Projeto de extensão feito de maio a dezembro de 2016 - UTFPR cornélio Procópio, com o objetivo de utilizar o acelerometro e giroscópio como controle de jogos e até mesmo em realidade virtual, pois seu custo é acessível e o sensor prático e com pouca presença de ruídos.
-
-Bruna Almeida Osti| 
-Matheus Biagini|
+Bruna Almeida Osti | Matheus Biagini |
